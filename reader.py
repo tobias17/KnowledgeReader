@@ -1,5 +1,4 @@
 import pyautogui
-from pynput import keyboard
 import numpy as np
 import cv2 as cv
 import pytesseract
